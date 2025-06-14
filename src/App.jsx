@@ -7,6 +7,7 @@ function App() {
       <NavBar />
       <main style={{ marginTop: '80px' }}>
         <h1>Hello World</h1>
+        <h1>Hello World</h1>
       </main>
     </>
   )
